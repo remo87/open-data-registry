@@ -22,24 +22,9 @@ Resources:
     Type: S3 Bucket
 DataAtWork:
   Tutorials:
-    - Title: Autoimmune colocalisations
+    - Title: Reading Open Targets Platform data from AWS examples
       URL: https://github.com/opentargets/notebooks
-      NotebookURL: https://github.com/opentargets/notebooks/blob/main/notebooks/autoimmune_colocalisations.ipynb
-      AuthorName: Open Targets Team
-      AuthorURL: https://github.com/opentargets
-    - Title: Autoimmune credible sets
-      URL: https://github.com/opentargets/notebooks
-      NotebookURL: https://github.com/opentargets/notebooks/blob/main/notebooks/autoimmune_credible_set.ipynb
-      AuthorName: Open Targets Team
-      AuthorURL: https://github.com/opentargets
-    - Title: ChEMBL Evidence Data Download
-      URL: https://github.com/opentargets/notebooks
-      NotebookURL: https://github.com/opentargets/notebooks/blob/main/notebooks/chembl_evidence_download.ipynb
-      AuthorName: Open Targets Team
-      AuthorURL: https://github.com/opentargets
-    - Title: Exploration of Open Targets datasets
-      URL: https://github.com/opentargets/notebooks
-      NotebookURL: https://github.com/opentargets/notebooks/blob/main/notebooks/exploring_ot_datasets.ipynb
+      NotebookURL: https://github.com/opentargets/notebooks/blob/main/notebooks/reading_data_from_aws.ipynb
       AuthorName: Open Targets Team
       AuthorURL: https://github.com/opentargets
     - Title: Open Targets informatics tools
